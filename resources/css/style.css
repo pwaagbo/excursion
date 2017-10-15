@@ -11,6 +11,12 @@ h1 {
   font-align: center;
 }
 
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px
+}
+
 p.download {
   font-family: Verdana;
   color: aquamarine;
