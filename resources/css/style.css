@@ -8,13 +8,21 @@ h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  font-align: center;
+  text-align: center;
 }
 
 h2 {
   font-family: Verdana;
   font-weight: 300;
-  font-size: 42px
+  font-size: 42px;
+  color: white;
+}
+
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
 }
 
 p.download {
